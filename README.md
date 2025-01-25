@@ -1,0 +1,2 @@
+This repository contains a collection of commonly used data structures and sorting algorithms implemented in C#.
+ The project is designed for educational purposes to help learners understand how these fundamental concepts work under the hood.
