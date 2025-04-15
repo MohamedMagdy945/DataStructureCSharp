@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DatastructureAndAlogDatastructurerithms.SortedAlgorithms
+namespace Datastructure.SortingAlgorithms
 {
     public static class SelectionSort
     {

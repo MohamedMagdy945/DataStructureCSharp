@@ -1,6 +1,5 @@
 ﻿using System;
 using Datastructure.Datastructure;
-using Datastructure.SortedAlgorithms;
 using Datastructure.SearchAlgorithms;
 using DataStructure.SortingAlgorithms;
 namespace Datastructure
