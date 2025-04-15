@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Datastructure.SortedAlgorithms
+namespace Datastructure.SortingAlgorithms
 {
     public static class HeapSort
     {
